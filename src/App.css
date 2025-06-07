@@ -1,8 +1,8 @@
 #root {
   max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  /* margin: 0 auto; */
+  /* padding: 2rem; */
+  /* text-align: center; */
 }
 
 .logo {
@@ -39,14 +39,4 @@
 
 .read-the-docs {
   color: #888;
-}
-
-nav {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 1rem 2rem;
-  display: flex;
-  justify-content: center;
-  gap: 2rem; /* adds horizontal space between nav items */
-  background-color: #1f2937; /* Tailwind's gray-900 */
 }
